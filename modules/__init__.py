@@ -1,0 +1,2 @@
+from modules.play_monty_hall import play_monty_hall
+from modules.simulation import simulation
